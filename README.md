@@ -1,10 +1,17 @@
 # Awesome Software #
 
+## 文本编辑器 ##
+- Atom 
+- Sublime Text 
+- visual Code
+
 ## IDE ##
 
-## Package Manager ##
+## 包管理器 ##
 
 - ndm 
+    - npm gui
+    - [官网地址](https://brew.sh/)
 - home brew 
     - mac os 的包管理器  
     - [官网地址](https://brew.sh/)
