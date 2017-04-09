@@ -10,6 +10,8 @@
     - 平台 windows/linux/MacOs
 
 ## IDE ##
+- Eclipse
+- Jetbrain
 
 ## 包管理器 ##
 
