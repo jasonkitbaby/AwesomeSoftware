@@ -18,6 +18,8 @@
         - Auto Close Tag
         - Git History Log
 
+        
+
 ## IDE ##
 - Eclipse
 - Jetbrain
