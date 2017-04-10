@@ -30,5 +30,3 @@
 - chocolateGUI
    - chocolate UI界面
    - [官网地址]( https://chocolatey.org/packages/ChocolateyGUI) 
- 
-  
