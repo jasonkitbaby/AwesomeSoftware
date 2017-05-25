@@ -50,3 +50,9 @@
 - Fiddler 
     - http 抓包工具
     - [官网地址](http://www.telerik.com/fiddler)
+
+
+# Windows 推荐软件#
+## Listary ##
+ - 类似Mac 的splotlight 
+ - [官网地址](http://www.listary.com/) 
