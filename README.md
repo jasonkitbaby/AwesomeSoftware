@@ -56,3 +56,20 @@
 ## Listary ##
  - 类似Mac 的splotlight 
  - [官网地址](http://www.listary.com/) 
+
+
+## Zeal ##
+ - 类似Dash的 api 文档查阅工具
+ - [官网地址](https://zealdocs.org/) 
+
+
+# Mac 推荐软件 #
+## Dash ##
+ - api 文档查阅工具
+ - [官网地址](https://kapeli.com/dash) 
+
+
+# Linux 推荐软件 #
+## Velocity ##
+ - api 文档查阅工具
+ - [官网地址](https://kapeli.com/dash) 
