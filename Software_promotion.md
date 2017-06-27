@@ -53,19 +53,26 @@
 
 
 # Windows 推荐软件 #
-## Listary ##
+## 快捷启动器 ##
+### Listary ###
  - 类似Mac 的splotlight 
- - [官网地址](http://www.listary.com/) 
+ - [Listary](http://www.listary.com/) 
+ - 免费开源
 
-## WOX ##
+### WOX ###
  - 快捷启动器辅助工具 类似 Mac的splotlight
  - [Wox](http://www.getwox.com/) 
  - 免费开源
 
-## Zeal ##
+## API 查阅 ##
+### Zeal ###
  - 类似Dash的 api 文档查阅工具
- - [官网地址](https://zealdocs.org/) 
-
+ - [Zeal](https://zealdocs.org/) 
+ - 免费
+### Velocity ###
+ - 类似Dash的 api 文档查阅工具
+ - [Velocity Silverlakesoftware](http://velocity.silverlakesoftware.com/) 
+ - 免费
 
 
 # Mac 推荐软件 #
