@@ -57,16 +57,22 @@
  - 类似Mac 的splotlight 
  - [官网地址](http://www.listary.com/) 
 
+## WOX ##
+ - 快捷启动器辅助工具 类似 Mac的splotlight
+ - [Wox](http://www.getwox.com/) 
+ - 免费开源
 
 ## Zeal ##
  - 类似Dash的 api 文档查阅工具
  - [官网地址](https://zealdocs.org/) 
 
 
+
 # Mac 推荐软件 #
 ## Dash ##
  - api 文档查阅工具
  - [官网地址](https://kapeli.com/dash) 
+ - 收费
 
 
 # Linux 推荐软件 #
