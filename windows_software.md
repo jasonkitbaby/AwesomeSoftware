@@ -1,4 +1,5 @@
-# Awesome Software #
+
+# Windows 推荐软件 #
 
 ## 文本编辑器 ##
 - Atom 
@@ -17,17 +18,7 @@
 - Eclipse
 - Jetbrain
 
-## 包管理器 ##
-
-- ndm 
-    - npm gui
-    - [官网地址](https://github.com/720kb/ndm/)
-- home brew 
-    - mac os 的包管理器  
-    - [官网地址](https://brew.sh/)
-- cake brew
-    - homebrew的UI界面
-    - [官网地址](https://www.cakebrew.com/)
+## 包管理工具 ##
 - chocolate
     - windows 的包管理器
     - [官网地址](http://chocolatey.org/)
@@ -39,13 +30,6 @@
     - [官网地址](http://scoop.sh/) 
 
 
-## 开发者工具 ##
-- Fiddler 
-    - http 抓包工具
-    - [官网地址](http://www.telerik.com/fiddler)
-
-
-# Windows 推荐软件 #
 ## 快捷启动器 ##
 ### Listary ###
  - 类似Mac 的splotlight 
@@ -67,19 +51,15 @@
  - [Velocity Silverlakesoftware](http://velocity.silverlakesoftware.com/) 
  - 免费
 
- cgwin
- winscp
- ShareX
+## Linux 交互 工具 ##
+ - cgwin
+ - winscp
 
+ ## 截图工具 ##
+ - ShareX
 
-# Mac 推荐软件 #
-## Dash ##
- - api 文档查阅工具
- - [官网地址](https://kapeli.com/dash) 
- - 收费
-
-
-# Linux 推荐软件 #
-## Velocity ##
- - api 文档查阅工具
- - [官网地址](https://kapeli.com/dash) 
+ ## http 工具 ##
+ - Fiddler 
+    - http 抓包工具
+    - [官网地址](http://www.telerik.com/fiddler)
+- Curl
